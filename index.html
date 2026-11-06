@@ -34,9 +34,9 @@
     const status = document.getElementById("status");
     const fullscreen = document.getElementById("fullscreen");
     const config = {
-      dataUrl: "Build/WebBuild.data.unityweb",
-      frameworkUrl: "Build/WebBuild.framework.js.unityweb",
-      codeUrl: "Build/WebBuild.wasm.unityweb",
+      dataUrl: "Build/86303e35b4d6e778a4187680c170c8c9.data.unityweb",
+      frameworkUrl: "Build/4929914c4c7bf77736786136b969bb43.framework.js.unityweb",
+      codeUrl: "Build/1bf882350e8c23f5e437006b5a51285a.wasm.unityweb",
       streamingAssetsUrl: "StreamingAssets",
       fullscreenElementID: "game",
       companyName: "SSD Studio",
@@ -51,7 +51,7 @@
     }
 
     const loader = document.createElement("script");
-    loader.src = "Build/WebBuild.loader.js";
+    loader.src = "Build/dbcd0920505ce813933a63c1e75728bc.loader.js";
     loader.onerror = showLoadError;
     loader.onload = () => {
       createUnityInstance(canvas, config, progress => {
