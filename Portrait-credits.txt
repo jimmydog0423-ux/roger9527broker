@@ -1,0 +1,64 @@
+水蛇洞經紀人 V2 角色立繪來源
+
+V 老大（Vivi 芝衣）
+
+原始照片：Vivi standing, front view 20221008a.jpg
+攝影：Solomon203
+來源：https://commons.wikimedia.org/wiki/File:Vivi_standing,_front_view_20221008a.jpg
+授權：CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+
+月希
+原始照片：Tsuki Lin talking on the stage, front view 20240203.jpg
+攝影：Solomon203
+來源：https://commons.wikimedia.org/wiki/File:Tsuki_Lin_talking_on_the_stage,_front_view_20240203.jpg
+授權：CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+
+NL
+原始照片：NL standing, front view 20240504a.jpg
+攝影：Solomon203
+來源：https://commons.wikimedia.org/wiki/File:NL_standing,_front_view_20240504a.jpg
+授權：CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+
+改作：以上三張照片以 imagegen 改繪為透明背景的像素胸像，移除現場背景與道具，
+並裁切縮放為遊戲頭像。這三位角色的立繪原稿與遊戲頭像依 CC BY-SA 4.0 散布。
+
+蛋頭 BG8LOCC
+人物參考：Backbone 職人系列專訪，2024-06-13。
+https://www.backbone.tw/blogs/recommend/159279
+以專訪照片參考臉部與髮型，重新構圖並繪製像素胸像。
+
+偷米 Virtual、哈耿、薛喜 Shaxy、肯特 Kant、阿森、EASON、MMD
+人物參考：雷特娛樂官網的叉滴娛樂藝人名單。
+https://rayterent.com/
+以各自的官方真人照參考臉部、髮型與服裝，重新構圖並繪製像素胸像。
+
+虧皮 Krapy
+人物參考：使用者提供的灰西裝與黑高領真人照。
+以 imagegen 重新構圖並改繪為遊戲用的像素胸像。
+
+威傅 WeiFu
+人物參考：巴哈姆特 GNN 報導《爐石戰記》選手威傅加入 J Team 遊戲娛樂的真人照片。
+https://gnn.gamer.com.tw/detail.php?sn=159209
+以 imagegen 參考臉部、眼鏡與神情，重新構圖並改繪為像素胸像。
+
+超負荷
+人物參考：雷特娛樂官網的拼經紀娛樂藝人名單。
+https://rayterent.com/
+以官方真人照參考臉部、細框眼鏡、髮型與深藍上衣，重新構圖並繪製像素胸像。
+
+花輪 Gear
+人物參考：鍇睿國際官網的鍇睿藝人名單。
+https://www.carry.live/artists.php
+以官方真人照參考臉部、圓框眼鏡、捲髮與白色上衣，重新構圖並繪製像素胸像。
+
+原創 NPC：王小姐、周老闆、陳老闆、林經理、張經理、稅務員
+沿用原有角色配件，逐一設定不同的輪廓、五官和年齡感，以 imagegen 重繪像素胸像。
+
+V2 其餘原創 NPC：25 位品牌窗口、11 位二手交易對象、11 位創業者、5 位中間人、4 位版權方。
+依各自的身分設計服裝與配色，每位角色皆有獨立的臉型和五官設定。使用 imagegen 繪製透明底像素胸像，原稿置於 Art/people/npc。
+
+鬼東、羅傑、王小姐使用原始 V2 立繪 PNG。
+來源為 Art/people/guidong-v2.png、Art/people/roger-v2.png、Art/people/npc/wang-v2.png。
